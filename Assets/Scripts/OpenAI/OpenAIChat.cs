@@ -33,7 +33,8 @@ public class ChatRequest
 public class OpenAIChat : MonoBehaviour
 {
     [Header("Configuración de OpenAI")]
-    private string apiKey = SecretsLoader.Secrets.OPENAI_API_KEY; // Reemplaza con tu clave de API
+    string apiKey = SecretsLoader.Secrets.OPENAI_API_KEY; // Reemplaza con tu clave de API
+    // private string apiKey = "API-KEY";
     [SerializeField] private string apiUrl = "https://api.openai.com/v1/chat/completions";
     [SerializeField] private string model = "gpt-4o"; // O "4o-realtime"
     [SerializeField] private string projectID = "TU_PROJECT_ID"; // Nuevo campo para el ID de proyecto
@@ -102,6 +103,8 @@ public class OpenAIChat : MonoBehaviour
 
         string jsonRequestBody = JsonUtility.ToJson(requestBody);
         Debug.Log("JSON enviado: " + jsonRequestBody);
+
+        Debug.Log("API enviado: " + apiKey);
 
         byte[] bodyRaw = System.Text.Encoding.UTF8.GetBytes(jsonRequestBody);
 
