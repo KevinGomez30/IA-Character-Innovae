@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 1e716b60f33981d4fb5d20dd1a56e210
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Arms
+    second: {fileID: 2100000, guid: 349ed870ab4d25c4baf21a6f57bd017d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Body
+    second: {fileID: 2100000, guid: c9d1245d0f068c34bb560da27689925f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Fingernails
+    second: {fileID: 2100000, guid: 262325bee4c8f7b4399a2d8dfcca8a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Head
+    second: {fileID: 2100000, guid: 19a245fb81942ab4ebd976382fe1d4da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Legs
+    second: {fileID: 2100000, guid: 4a7b0bc7c942833468e4442e45587755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Mouth Cavity
+    second: {fileID: 2100000, guid: 23758e2df5d4be1408a307ac2b48e36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amala for Genesis 9_Toenails
+    second: {fileID: 2100000, guid: 5e9032c585a772d45b8465aa564dabb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bra_5382_Bra_Heart
+    second: {fileID: 2100000, guid: 30182381f7f8e6846ae53dd759923c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bra_5382_Bra_Main
+    second: {fileID: 2100000, guid: 342eeb8ce6e82db4dacae1d9dbecba36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bra_5382_Bra_Straps
+    second: {fileID: 2100000, guid: 01e2fb23a5187124c8d06cfe9236a07b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bra_5382_Bra_Underbust
+    second: {fileID: 2100000, guid: 005a64b8319b2d249aa57bb8c30b4671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bra_5382_Bra_Upper_Border
+    second: {fileID: 2100000, guid: 06fa9347d08c7e443a82d4edeb3e6eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G9EyebrowCards_Eyebrows_Primary
+    second: {fileID: 2100000, guid: 4038a6581d8846d4b8318db0cf538aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: G9EyebrowCards_Eyebrows_Secondary
+    second: {fileID: 2100000, guid: 4fab545f6f68ba0408bd81dc287e5d1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyelashes_Eyelashes Lower
+    second: {fileID: 2100000, guid: e7c3e7e6b48c83b4d83adc3f37f38ec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyelashes_Eyelashes Upper
+    second: {fileID: 2100000, guid: ea26433bac5139d4399903d262919b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyes_Eye Left
+    second: {fileID: 2100000, guid: c41173182af7e824683dc5b0d4eea194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyes_Eye Right
+    second: {fileID: 2100000, guid: 5a00764e92d93244fbc350ae1144d7b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyes_EyeMoisture Left
+    second: {fileID: 2100000, guid: b04a0017c36a65245b3fdce74ead65e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Eyes_EyeMoisture Right
+    second: {fileID: 2100000, guid: c5f128732821b9e40ba73941f1e599a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Mouth_Mouth
+    second: {fileID: 2100000, guid: 344e94662c592cb4f9287a551868415c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Mouth_Teeth
+    second: {fileID: 2100000, guid: 8a3d3cea7d4d5b8409f22321289d8c1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Genesis 9 Tear_Tear
+    second: {fileID: 2100000, guid: 0ddf40f446debc64fbfc4e29b89b5ba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undies_002 UV_4046_Undies_Heart
+    second: {fileID: 2100000, guid: b8498656a763aa14e8f9e08c5f89ac03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undies_002 UV_4046_Undies_Legband
+    second: {fileID: 2100000, guid: 1b7bd03d712ecf344a8587fab8219b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undies_002 UV_4046_Undies_Main
+    second: {fileID: 2100000, guid: 4a90b0a8f5019f14ca53e7159d90b20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undies_002 UV_4046_Undies_Waistband
+    second: {fileID: 2100000, guid: ad50af619cd46f545a334df3759e7e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aprilyshEirgridHair_428373_hair1
+    second: {fileID: 2100000, guid: e9081cb4fe934854892b8962e63a9259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aprilyshEirgridHair_428373_hair2
+    second: {fileID: 2100000, guid: bf6dc1657433e2c48aef6b828f1acb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aprilyshEirgridHair_428373_scalp
+    second: {fileID: 2100000, guid: 6367603d1e993be409079e553bcd427a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aprilyshEirgridHair_428373_ties
+    second: {fileID: 2100000, guid: abd7a6d97610ad347a5815936cbfe460, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
