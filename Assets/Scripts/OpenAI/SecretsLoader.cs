@@ -12,15 +12,12 @@ public static class SecretsLoader
 {
     private static SecretData _secrets;
 
-    public static SecretData Secrets
+    public static SecretData GetSecrets()
     {
-        get
-        {
-            if (_secrets == null)
-                LoadSecrets();
+        if (_secrets == null)
+            LoadSecrets();
 
-            return _secrets;
-        }
+        return _secrets;
     }
 
     private static void LoadSecrets()

@@ -21,7 +21,7 @@ public class WebRTCVoiceChat : MonoBehaviour
     private bool isConnected = false;
 
     [Header("Configuración de OpenAI")]
-    string apiKey = SecretsLoader.Secrets.OPENAI_API_KEY;
+    string apiKey = SecretsLoader.GetSecrets().OPENAI_API_KEY;
     //private string apiKey = "API-KEY";
     [SerializeField] private string whisperApiUrl = "https://api.openai.com/v1/audio/transcriptions";
     [SerializeField] private string gptApiUrl = "https://api.openai.com/v1/chat/completions"; // URL para GPT-4o

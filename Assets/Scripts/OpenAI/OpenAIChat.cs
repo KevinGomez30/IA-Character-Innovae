@@ -33,7 +33,7 @@ public class ChatRequest
 public class OpenAIChat : MonoBehaviour
 {
     [Header("Configuración de OpenAI")]
-    string apiKey = SecretsLoader.Secrets.OPENAI_API_KEY; // Reemplaza con tu clave de API
+    private string apiKey = SecretsLoader.GetSecrets().OPENAI_API_KEY; // Reemplaza con tu clave de API
     // private string apiKey = "API-KEY";
     [SerializeField] private string apiUrl = "https://api.openai.com/v1/chat/completions";
     [SerializeField] private string model = "gpt-4o"; // O "4o-realtime"
